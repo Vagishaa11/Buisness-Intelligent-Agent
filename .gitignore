@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Uploaded data & generated database
+data/
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
